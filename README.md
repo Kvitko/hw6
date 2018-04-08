@@ -13,4 +13,6 @@
 2) Самые редкие слова
 Определить самые редкие в текстах слова можно с помощью опции "Invert order" в разделе "Wordlist" при сортировке по частотности употребления
 
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-20-31.png)
 
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-06-25.png)
