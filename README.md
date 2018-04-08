@@ -19,3 +19,15 @@
 
 ### 3) Использование слов в контексте
 Для анализа я выбрала слова "женщина", "мужчина" и "жена" для обоих произведений (однако, я рассматриваю лишь отрывок романа "День опричника", что несколько осложняет оценку контекста употребления того или иного слова). 
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-44-37.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-45-40.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-46-37.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-49-49.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-51-23.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-50-57.png)
