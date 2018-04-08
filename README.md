@@ -31,3 +31,17 @@
 ![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-51-23.png)
 
 ![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-50-57.png)
+
+### 4) Concordance plot для каждого из слов
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-48-17.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-48-59.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-47-38.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-50-08.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-51-44.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-50-32.png)
