@@ -45,3 +45,13 @@
 ![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-51-44.png)
 
 ![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-08_15-50-32.png)
+
+### 5) Биграммы - N-граммы (пентаграммы)
+В романе Толстого "Анна Каренина" я выбрала для составления списка биграмм - пентаграмм слово "мужья"
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-09_23-13-43.png)
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-09_23-19-13.png)
+
+В отрывке из романа Сорокина "День опричника" я выбрала слово "опричник"
+
+![alt text](https://github.com/Kvitko/hw6/blob/master/2018-04-09_23-15-07.png)
